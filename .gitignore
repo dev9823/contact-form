@@ -14,4 +14,4 @@ media/
 *.log
 *.env
 Pipfile
-.lock
+Pipfile.lock
